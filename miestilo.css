@@ -1,0 +1,86 @@
+.headerpersonal {
+  background-image: url("images/bg.jpeg");
+
+}
+
+.logodesafio {
+  height: 5vh;
+}
+
+.navpersonal {
+   margin-top: 10px;
+
+}
+
+.navbar-brand {
+    background-color:transparent;
+}
+
+
+.textobanner {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+.boton1
+{
+
+  color: white;
+  background-color: #337AB7;
+  z-index: 4;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 1px;
+}
+.boton2
+{
+  color:white;
+  background-color: #5CB85C;
+  position: absolute;
+  z-index: 5;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 1px;
+}
+
+.textobannertext {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  padding-bottom: 20px; }
+
+  h5 {
+
+    font-family: sans-serif;
+    text-align: center;
+
+  }
+  p {
+
+    font-family: sans-serif;
+    text-align: center;
+
+  }
+  .jumbotron p {
+      margin-bottom: 15px;
+      font-size: 12px;
+      font-weight: 200;
+  }
+
+  .pie {
+    background-color: black;
+    height: auto;
+  }
+
+  .footertext {
+    color: white;
+    text-align: left;
+  }
+  .p2 {
+
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 12px;
+
+  }
